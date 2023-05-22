@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class StringToolsTest {
-
+//aaaaaaaaa
     @Nested
     @DisplayName("Testi dlia metoda FirstToUpperCase")
 
